@@ -1,4 +1,19 @@
 body {
-  font-family: "Times New Roman", Times, serif;
-  background-color: cornsilk;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(231, 161, 194);
+  color: black;
+}
+.ingredienser,
+.fremgangsmaade,
+.oppe {
+  background-color: pink;
+}
+section.ingredienser li {
+  list-style-type: circle;
+}
+#wowow,
+#wauwauw,
+#overskrift,
+#servering {
+  color: hotpink;
 }
