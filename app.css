@@ -11,9 +11,19 @@ body {
 section.ingredienser li {
   list-style-type: circle;
 }
-#wowow,
-#wauwauw,
+#overskrifti,
+#overskriftf,
 #overskrift,
 #servering {
   color: hotpink;
+}
+.oppe {
+  text-align: center;
+}
+img {
+  border-radius: 10%;
+  border: 3px dotted hotpink;
+}
+#undertekst {
+  border: 3px solid hotpink;
 }
