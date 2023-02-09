@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(231, 161, 194);
+  color: black;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.sectiontwo,
+.sectionthree,
+.sectionone {
+  background-color: pink;
+}
+section.sectiontwo li {
+  list-style-type: circle;
+}
+#titletwo,
+#titlethree,
+#title,
+#midsection {
+  color: hotpink;
+}
+.sectionone {
+  text-align: center;
+}
+img {
+  border-radius: 10%;
+  border: 3px dotted hotpink;
+}
+#textone {
+  border: 3px solid hotpink;
+  max-width: 800px;
+  margin: 0 auto;
+}
+#textone,
+#texttwo {
+  max-width: 1100px;
+  margin: 0 auto;
+}
